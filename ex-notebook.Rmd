@@ -383,4 +383,6 @@ Jeg har også benyttet pakkene `RMarkdown` [@cit_rmarkdown] og `styler` [@cit_st
 Foreløpig har vi bare generert html-dokumenter, men mye av poenget med `RMarkdown` er at vi lett skal kunne generere dokumentet i ulike format.
 Bruk Knit/Preview menyen og generer pdf og MS Word versjoner.
 
+Tester bare ut.
+
 # Referanser
